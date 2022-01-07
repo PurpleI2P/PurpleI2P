@@ -1,11 +1,11 @@
 # PurpleI2P community forum
 
-[Forum](https://github.com/PurpleI2P/PurpleI2P/issues) for I2P-related 
+[Forum](https://github.com/PurpleI2P/PurpleI2P/discussions) for I2P-related 
 discussions, feel free to create issues.
 
-## I2P форум
+## Форум сообщества PurpleI2P
 
-[Форум](https://github.com/PurpleI2P/PurpleI2P/issues) для обсуждения различных
+[Форум](https://github.com/PurpleI2P/PurpleI2P/discussions) для обсуждения различных
  тем, связанных с I2P.
 
-[Русскоязычные обсуждения](https://github.com/PurpleI2P/PurpleI2P/labels/ru)
+[Русскоязычные обсуждения](https://github.com/PurpleI2P/PurpleI2P/discussions?discussions_q=label%3Aru)
